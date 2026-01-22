@@ -1,0 +1,7 @@
+/.venv
+/.jarvis.db
+/.chatbot.db
+/__pycache__/
+/.cookie.json
+/.env
+/.env.*
